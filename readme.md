@@ -1,4 +1,4 @@
-# projeto Azure AZ-900
+# Projeto Azure AZ-900
 
 ## Descrição
 Localizando Serviços por Categoria.
@@ -7,9 +7,9 @@ Iniciei esse repositório através do  site GitHub, criando um new repository co
 
 Aqui ficará meu futuro projeto.
 
-##Referências
+## Referências
 -[Digital Innovation One](https://web.dio.me/track/6cee6fa7-1f5a-477a-9fb3-6aef705ea09a )
--[Antonio Tiburtino](https://github.com/antoniotiburtino)
+-[Antonio Tiburtino](https://github.com/antoniotiburtino).
 
 
 
