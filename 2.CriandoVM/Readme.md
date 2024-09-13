@@ -65,7 +65,3 @@ Para mais informações e configurações avançadas, consulte a documentação 
 
 **Com este guia, você está pronto para criar e gerenciar suas próprias máquinas virtuais no Azure!**
 
-**[Adicione mais seções se necessário, como:**
-* **Troubleshooting:** Para solucionar problemas comuns.
-* **Automatização:** Usando Azure CLI ou PowerShell para criar VMs em massa.
-* **Boas práticas:** Recomendações para otimizar o desempenho e a segurança.
